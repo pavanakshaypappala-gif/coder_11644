@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
