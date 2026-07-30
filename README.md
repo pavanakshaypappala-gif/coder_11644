@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0258-add-digits](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -32,12 +33,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
