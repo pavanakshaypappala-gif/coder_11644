@@ -34,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
