@@ -5,6 +5,5 @@ class Solution:
             i+=1
         if i*i==num:
             return True
-                
         return False
         
