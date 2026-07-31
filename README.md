@@ -18,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0258-add-digits](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
