@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -63,6 +64,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
