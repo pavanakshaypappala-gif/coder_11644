@@ -25,6 +25,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
