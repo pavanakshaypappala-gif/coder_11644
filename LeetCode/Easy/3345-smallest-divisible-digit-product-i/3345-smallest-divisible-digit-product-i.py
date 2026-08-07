@@ -8,5 +8,6 @@ class Solution:
                 x //=10
             if pro % t == 0:
                 return n
-            n+=1
+        
+            n=n+1
         
