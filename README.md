@@ -56,6 +56,7 @@
 | [0058-length-of-last-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
