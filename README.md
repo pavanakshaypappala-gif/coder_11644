@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
