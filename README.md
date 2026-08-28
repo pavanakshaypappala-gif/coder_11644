@@ -39,6 +39,7 @@
 | [2235-add-two-integers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
