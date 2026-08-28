@@ -37,6 +37,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
