@@ -38,6 +38,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -105,6 +106,7 @@
 | [0258-add-digits](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
