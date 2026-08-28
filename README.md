@@ -132,6 +132,7 @@
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 ## Greedy
@@ -187,4 +188,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
