@@ -17,6 +17,7 @@
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Math
@@ -112,6 +113,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
