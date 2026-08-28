@@ -41,6 +41,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2469-convert-the-temperature/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
