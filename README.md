@@ -63,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+| [0771-jewels-and-stones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## String
@@ -82,6 +83,7 @@
 | [0412-fizz-buzz](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
