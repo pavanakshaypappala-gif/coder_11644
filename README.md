@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0136-single-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
