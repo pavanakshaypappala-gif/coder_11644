@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -50,6 +51,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -61,6 +63,7 @@
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
