@@ -18,6 +18,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
