@@ -22,6 +22,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
