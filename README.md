@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -32,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
