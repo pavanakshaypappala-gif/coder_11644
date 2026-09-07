@@ -22,6 +22,7 @@
 | [0414-third-maximum-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -72,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
@@ -91,6 +93,7 @@
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -137,6 +140,7 @@
 | [0136-single-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 ## Simulation
