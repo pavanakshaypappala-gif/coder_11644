@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
@@ -128,6 +129,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
