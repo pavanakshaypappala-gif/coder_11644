@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -61,6 +62,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -75,6 +77,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -155,6 +158,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
@@ -196,6 +200,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -238,4 +243,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
