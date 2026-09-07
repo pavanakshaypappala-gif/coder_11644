@@ -26,6 +26,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 | [0771-jewels-and-stones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
