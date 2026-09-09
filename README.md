@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
