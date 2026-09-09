@@ -27,6 +27,7 @@
 | [0704-binary-search](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
@@ -76,6 +77,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@
 | [0645-set-mismatch](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
@@ -172,6 +175,7 @@
 | [0383-ransom-note](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Queue
@@ -257,4 +261,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
