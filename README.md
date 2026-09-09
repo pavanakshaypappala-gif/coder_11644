@@ -106,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
