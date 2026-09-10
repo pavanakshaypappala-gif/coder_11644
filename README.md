@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
