@@ -5,5 +5,5 @@ class Solution:
             if nums[i] != 0 :
                 nums[i],nums[s]=nums[s],nums[i]
                 s +=1
-
+        return nums
         
