@@ -39,6 +39,7 @@
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/pavanakshaypappala-gif/coder_11644/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
